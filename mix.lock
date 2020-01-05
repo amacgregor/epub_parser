@@ -1,0 +1,5 @@
+%{
+  "bupe": {:hex, :bupe, "0.6.0", "ed1f85f1c28559af8838d8d222def57927b74d303c195cc344d98def47299ae4", [:mix], [], "hexpm"},
+  "decimal": {:hex, :decimal, "1.8.1", "a4ef3f5f3428bdbc0d35374029ffcf4ede8533536fa79896dd450168d9acdf3c", [:mix], [], "hexpm"},
+  "progress_bar": {:hex, :progress_bar, "2.0.0", "447285f533b4b8717881fdb7160c7360c2f2ab57276f8904ce6d40482857e573", [:mix], [{:decimal, "~> 1.0", [hex: :decimal, repo: "hexpm", optional: false]}], "hexpm"},
+}
